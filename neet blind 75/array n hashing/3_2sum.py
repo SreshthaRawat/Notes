@@ -23,7 +23,7 @@ class Solution:
 
             so return statement can be simplified as
             return [x,y] so it returns two values only
-
                   """
             
             seen[val]=i
+ 
