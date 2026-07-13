@@ -8,7 +8,7 @@
 
 # after finding the largest curr we'll store that in res (res=max(curr,res))
 # make sure you do that just outside while loop as inside while res gets updated every step and 
-# even though only the final curr matters but it'll be nice to update it once per sequence 
+# even though only the final curr matters but it'll be nice to update it once per sequence only 
 # and voila it's my first solution that i brute forced and it came out optimal xddd
 
 
