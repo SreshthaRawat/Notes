@@ -1,3 +1,5 @@
+# approaches: brute(n[i]== n[j]), sort, hashset, hashset length
+
 #brute force
 # not much to add just plain brute force
 # with n2 TC so typical TLE error 
